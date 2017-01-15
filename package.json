@@ -1,4 +1,5 @@
 {
+  "name": "electron-file-explorer",
   "devDependencies": {
     "electron-prebuilt": "^0.26.1",
     "esperanto": "^0.7.0",
