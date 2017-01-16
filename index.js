@@ -1,4 +1,4 @@
-var { FilesLayout } =require('./app/components/Files');
-var { Favorites } = require('./app/components/Favorites');
-var { Back } =  require('./app/components/Header');
+import { FilesLayout } from './app/components/Files';
+import { Favorites } from './app/components/Favorites';
+import { Back } from './app/components/Header';
 
