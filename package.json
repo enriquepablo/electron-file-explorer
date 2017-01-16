@@ -1,7 +1,7 @@
 {
   "name": "electron-file-explorer",
   "version": "0.1.0",
-  "main": "./index",
+  "main": "./index.js",
   "devDependencies": {
     "electron-prebuilt": "^0.26.1",
     "esperanto": "^0.7.0",
