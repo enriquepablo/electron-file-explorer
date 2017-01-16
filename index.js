@@ -1,3 +1,3 @@
-var { FilesLayout } =require('./app/components/Files.js');
-var { Favorites } = require('./app/components/Favorites.js');
+var { FilesLayout } =require('./app/components/files.js');
+var { Favorites } = require('./app/components/favorites.js');
 var { Back } =  require('./app/components/Header.js');
